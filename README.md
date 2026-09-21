@@ -1,7 +1,7 @@
 Hey there, I'm Xiangyijie Zhang (LeoZhangXYJ) 👋
 
-- 🎓 B.S. in Geographic Information Science, Zhejiang University
-- 🎓 Academic M.S. in Information and Communication Engineering, Aerospace Information Research Institute, University of Chinese Academy of Sciences
+- 🎓 B.S. in Geographic Information Science, ZJU
+- 🎓 Academic M.S. in Information and Communication Engineering, AIR, UCAS
 
 🌍 Interests: WebGIS · Spatial Data Visualization · GIS Application Development
 
